@@ -1,2 +1,2 @@
 # gamingWebsite
-An objected orientated website I made using PHP, JavaScript, CSS and HTML. 
+An objected orientated website I made using PHP, javascript, css and html. The design of the website includes a showcase of 10 games on PS5, personally ranked 1 to 10, with a comparitive page showcasing the PS5 and the PS5 digital. It also includes a working registration and login systems that allows users to create profiles. I aim to additionally add a feature where users are able to leave reviews on games with their profile name.
