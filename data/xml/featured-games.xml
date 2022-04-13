@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Articles>
+  <Article>
+    <heading>Featured Game 1</heading>
+    <tagline>F1 2021</tagline>
+    <storyimg_href>featured/f12021.jpg</storyimg_href>
+    <content> </content>
+    <article_href>article1.part.html</article_href>
+    <summary>The world of motorsport at your fingertips</summary>
+    <link>game.php?id=2</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+
+  <Article>
+    <heading>Featured Game 2</heading>
+    <tagline>Horizon Forbidden West</tagline>
+    <storyimg_href>featured/horizonFW.jpg</storyimg_href>
+    <content> </content>
+    <article_href></article_href>
+    <summary>Explore the post-apocalyptic States of America</summary>
+    <link>game.php?id=4</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+
+  <Article>
+    <heading>Featured Game 3</heading>
+    <tagline>NBA 2K22</tagline>
+    <storyimg_href>featured/nba2k22.jpg</storyimg_href>
+    <content> </content>
+    <article_href></article_href>
+    <summary>NBA 2K22 - The entire basketball universe in one</summary>
+    <link>game.php?id=7</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+</Articles>

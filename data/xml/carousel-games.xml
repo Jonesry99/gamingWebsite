@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Images>
+  <Image>
+    <img_href>fortniteCarousel.jpg</img_href>
+    <title>Game Spotlight</title>
+    <lead>Fortnite Battle Royale</lead>
+  </Image>
+  <Image>
+    <img_href>fifa22Carousel.jpg</img_href>
+    <title>Game Spotlight</title>
+    <lead>FIFA 22</lead>
+  </Image>
+  <Image>
+    <img_href>nba2k22Carousel.jpg</img_href>
+    <title>Game Spotlight</title>
+    <lead>NBA 2K22</lead>
+  </Image>
+  <Image>
+    <img_href>madden22Carousel.jpg</img_href>
+    <title>Game Spotlight</title>
+    <lead>Madden NFL 22</lead>
+  </Image>
+  <Image>
+    <img_href>f12021Carousel.jpg</img_href>
+    <title>Game Spotlight</title>
+    <lead>F1 2021</lead>
+  </Image>
+  <Image>
+    <img_href>subnauticaCarousel.jpg</img_href>
+    <title>Game Spotlight</title>
+    <lead>Subnautica: Below Zero</lead>
+  </Image>
+  <Image>
+    <img_href>unchartedCarousel.jpg</img_href>
+    <title>Game Spotlight</title>
+    <lead>Uncharted: Legacy Of Thieves Collection</lead>
+  </Image>
+  <Image>
+    <img_href>horizonCarousel.jpg</img_href>
+    <title>Game Spotlight</title>
+    <lead>Horizon Forbidden West</lead>
+  </Image>
+  <Image>
+    <img_href>farmingSimCarousel.jpg</img_href>
+    <title>Game Spotlight</title>
+    <lead>Farming Simulator 22</lead>
+  </Image>
+  <Image>
+    <img_href>ratchetCarousel.jpg</img_href>
+    <title>Game Spotlight</title>
+    <lead>Ratchet and Clank: Rift Apart</lead>
+  </Image>
+</Images>
